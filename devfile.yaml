@@ -1,0 +1,10 @@
+schemaVersion: 2.1.0
+metadata:
+  name: nginx-ex
+  namespace: hiroaki-devspaces
+projects:
+  - git:
+      remotes:
+        origin: 'https://github.com/sclorg/nginx-ex.git'
+    name: nginx-ex
+components: []
