@@ -5,6 +5,6 @@ metadata:
 projects:
   - git:
       remotes:
-        origin: 'https://github.com/sclorg/nginx-ex.git'
+        origin: 'https://github.com/h-i500/nginx-ex.git'
     name: nginx-ex
 components: []
